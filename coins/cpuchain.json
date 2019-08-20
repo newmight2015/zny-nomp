@@ -1,5 +1,5 @@
 {
-    "name": "CPUchain",
+    "name": "cpuchain",
     "symbol": "CPU",
     "algorithm": "cpupower",
     "peerMagic": "deadbeef",

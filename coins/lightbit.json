@@ -1,0 +1,9 @@
+{
+    "name": "lightbit",
+    "symbol": "LIBT",
+    "algorithm": "yespowerLITB",
+    "peerMagic": "adaedcfe",
+    "peerMagicTestnet": "adaedcfe",
+    "blockTime": 60,
+    "txfee": 0.0002
+}
