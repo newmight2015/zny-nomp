@@ -1,0 +1,8 @@
+{
+    "name": "resistance",
+    "symbol": "RES",
+    "algorithm": "yespowerRES",
+    "requireShielding": true,
+    "peerMagic": "52455321",
+    "txfee": 0.0001
+}
